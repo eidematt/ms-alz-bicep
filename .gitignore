@@ -1,0 +1,14 @@
+# Bicep build output (configure builds to write templates here)
+/compiled/
+/bin/
+/obj/
+/out/
+
+# Local editor and operating-system files
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
